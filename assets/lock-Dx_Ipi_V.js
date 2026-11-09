@@ -1,0 +1,1 @@
+import{o as e,t}from"./react-vendor-CvK-_u7X.js";import{t as n}from"./src-D-Yr7kdo.js";import{u as r}from"./src-DFaw23_H.js";import{t as i}from"./lock-screen-DIgiusug.js";var a=t();function o(){let t=e(),o=r(e=>e.lockScreenPassword);return(0,a.jsx)(i,{avatar:``,password:o||`admin`,onUnlock:()=>n(t,`/`),onToLogin:()=>t(`/auth/login`)})}export{o as default};
