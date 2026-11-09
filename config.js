@@ -1,5 +1,5 @@
 window.__APP_CONFIG__ = {
-  version: 'v1.0.3',
+  version: 'v1.0.4',
   system: {
     name: 'ZaneLab',
     nameEn: 'ZaneLab',
