@@ -71,7 +71,7 @@ window.__APP_CONFIG__ = {
   microApps: {
     home: {
       name: 'home',
-      entry: '/home/',
+      entry: '/apps/home/',
       container: '#subapp-home-container',
       activeRule: '/home',
       props: {},
